@@ -5,4 +5,4 @@
 [대회 링크](https://dacon.io/edu/310)
 
 ## 🏆 대회 비법 코드로 시작하세요! 👣
-[리스트 스프레드시트](https://docs.google.com/spreadsheets/u/0/d/1ywnpAfe49YySAObFLEHrXjSp4pxgSIK6SHYw6rRKWbo/htmlview?pli=1#gid=0)
+[스프레드시트](https://docs.google.com/spreadsheets/u/0/d/1ywnpAfe49YySAObFLEHrXjSp4pxgSIK6SHYw6rRKWbo/htmlview?pli=1#gid=0)
